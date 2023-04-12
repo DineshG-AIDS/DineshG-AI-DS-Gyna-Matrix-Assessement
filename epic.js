@@ -4,7 +4,7 @@ function login() {
   const vv = document.querySelector('input[name="username"]')[0];
 
   // Check if the username and password are correct
-  if (username === "vv" && password === "1") {
+  if (username === "vv" && password === "11") {
     // Store the username and password in local storage
     localStorage.setItem("username", username);
     localStorage.setItem("password", password);
