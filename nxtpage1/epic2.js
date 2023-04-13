@@ -1,4 +1,4 @@
-const vv = document.getElementById("show1");
+const vv = document.querySelectorAll("cardimg1");
 vv.addEventListener("click", () => {
   window.location.href = "https://details-three.vercel.app/";
 });

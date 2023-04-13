@@ -5,6 +5,9 @@
 .tst1 {
   width: 1rem;
 }
+a {
+  cursor: default;
+}
 
 body {
   font-family: ff3;
@@ -45,12 +48,12 @@ body {
   margin-top: 4rem;
 }
 .cardimg1 {
-  transition: all 0.2s ease-in-out;
+  /* transition: all 0.2s ease-in-out; */
   width: 20rem;
 }
-.cardimg1:hover {
+/* .cardimg1:hover {
   transform: scale(1.1);
-}
+} */
 
 .toplogo1 {
   width: 11rem;
