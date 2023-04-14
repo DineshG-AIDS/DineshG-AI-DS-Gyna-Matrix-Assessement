@@ -5,6 +5,7 @@ function login() {
 
   // Check if the username and password are correct
   if (username === "gyan" && password === "1") {
+  if (username === "vv" && password === "11") {
     // Store the username and password in local storage
     localStorage.setItem("username", username);
     localStorage.setItem("password", password);
