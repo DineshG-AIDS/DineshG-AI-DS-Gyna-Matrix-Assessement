@@ -8,3 +8,12 @@ document.getElementById("we12").addEventListener("click", () => {
 document.getElementById("we13").addEventListener("click", () => {
   window.location.href = "fouth/ind.html";
 });
+document.getElementById("we14").addEventListener("click", () => {
+  window.location.href = "fifth/ind.html";
+});
+document.getElementById("we15").addEventListener("click", () => {
+  window.location.href = "sixith/ind.html";
+});
+document.getElementById("we16").addEventListener("click", () => {
+  window.location.href = "seveth/ind.html";
+});

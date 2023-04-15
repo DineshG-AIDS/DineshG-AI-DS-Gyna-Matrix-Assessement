@@ -5,8 +5,12 @@
 .tst1 {
   width: 1rem;
 }
-#we11 {
+#we15 {
   width: 18rem;
+}
+#we16 {
+  width: 18rem;
+  height: 18rem;
 }
 
 body {
@@ -97,5 +101,9 @@ body {
   }
   .dia1 {
     width: 2rem;
+  }
+  .card {
+    display: flex;
+    justify-content: center;
   }
 }

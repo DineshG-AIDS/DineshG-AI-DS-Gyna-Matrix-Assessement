@@ -31,6 +31,7 @@ html {
   margin-top: -8rem;
   font-size: 3rem;
   color: white;
+  cursor: default;
 }
 .bb1 {
   padding-bottom: 2rem;
@@ -46,6 +47,7 @@ html {
   font-family: ff3;
   font-size: 1.9rem;
   color: white;
+  cursor: default;
 }
 .lst1 {
   position: absolute;
@@ -55,6 +57,7 @@ html {
   font-family: ff3;
   font-size: 1.9rem;
   color: white;
+  cursor: default;
 }
 
 .wet4 {
