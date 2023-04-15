@@ -1,7 +1,7 @@
 function login() {
   const username = document.querySelector('input[name="username"]').value;
   const password = document.querySelector('input[name="password"]').value;
-  const vv = document.querySelector('input[name="username"]')[0];
+  // const vv = document.querySelector('input[name="username"]')[0];
 
   // Check if the username and password are correct
   if (username === "gyan" && password === "1") {

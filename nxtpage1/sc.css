@@ -5,6 +5,9 @@
 .tst1 {
   width: 1rem;
 }
+#we11 {
+  width: 18rem;
+}
 
 body {
   font-family: ff3;
@@ -17,7 +20,7 @@ body {
 /*  */
 .txt1 {
   display: flex;
-  justify-content: center;
+  justify-content: flex-start;
   margin: 0;
   font-family: ff3;
 }
@@ -39,7 +42,7 @@ body {
 }
 .card {
   display: flex;
-  justify-content: center;
+  justify-content: flex-start;
   flex-wrap: wrap;
   flex-grow: 1;
   margin-top: 4rem;

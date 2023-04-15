@@ -36,16 +36,23 @@ body {
   border-radius: 2rem;
   /* border: 0.5rem solid black; */
 }
+#show11 {
+  width: 18rem;
+  /* position: absolute;
+  left: 27%; */
+}
 .card1 {
   display: flex;
   margin-top: 2rem;
 }
 .card {
   display: flex;
-  justify-content: space-around;
+  /* justify-content: space-around; */
+  justify-content: flex-start;
   flex-wrap: wrap;
-  flex-grow: 1;
+  /* flex-grow: 1; */
   margin-top: 4rem;
+  gap: 1rem;
 }
 .cardimg1 {
   /* transition: all 0.2s ease-in-out; */
