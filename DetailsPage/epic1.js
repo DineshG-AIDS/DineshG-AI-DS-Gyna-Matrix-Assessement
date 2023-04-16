@@ -9,10 +9,10 @@ document.getElementById("we1").addEventListener("click", () => {
   window.location = "/DetailsPage/first/ind.html";
 });
 document.getElementById("we2").addEventListener("click", () => {
-  window.location = "/DetailsPage/secondp/ind.html";
+  window.location.href = "/DetailsPage/secondp/ind.html";
 });
 document.getElementById("we3").addEventListener("click", () => {
-  window.location = "/DetailsPage/tjird/ind.html";
+  window.location.href = "/DetailsPage/tjird/ind.html";
 });
 document.getElementById("we4").addEventListener("click", () => {
   window.location = "/DetailsPage/fourth/ind.html";
