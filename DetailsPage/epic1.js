@@ -6,7 +6,7 @@ document.getElementById("ni2").addEventListener("click", () => {
 });
 
 document.getElementById("we1").addEventListener("click", () => {
-  window.location.href = "/DetailsPage/first/ind.html";
+  window.location.href = "DetailsPage/first/ind.html";
 });
 document.getElementById("we2").addEventListener("click", () => {
   window.location.href = "/DetailsPage/secondp/ind.html";
