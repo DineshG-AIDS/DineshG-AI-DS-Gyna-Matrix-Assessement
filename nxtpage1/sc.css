@@ -12,6 +12,12 @@
   width: 18rem;
   height: 18rem;
 }
+#nan1 {
+  cursor: default;
+}
+#nan2 {
+  cursor: default;
+}
 
 body {
   font-family: ff3;
