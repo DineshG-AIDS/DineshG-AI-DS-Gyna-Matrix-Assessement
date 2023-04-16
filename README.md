@@ -1,6 +1,7 @@
 # DineshG-AI-DS-Gyna-Matrix-Assessement
 
-The final out is ready
+Almost the final version is completed
+
 
 ----------------Live Demo----------------------
 #
