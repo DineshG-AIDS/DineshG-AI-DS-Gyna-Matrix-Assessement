@@ -18,9 +18,9 @@ document.getElementById("we16").addEventListener("click", () => {
   window.location.href = "seveth/ind.html";
 });
 document.getElementById("nan1").addEventListener("click", () => {
-  window.location = "/DetailsPage/second.html";
+  window.location.href = "DetailsPage/second.html";
   wi;
 });
 document.getElementById("nan2").addEventListener("click", () => {
-  window.location = "/nxtpage1/index.html";
+  window.location.href = "nxtpage1/index.html";
 });
